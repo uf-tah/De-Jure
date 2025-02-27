@@ -1,7 +1,7 @@
 ---
 permalink: /
 ---
-# xH1x
+# H1
 
 Testing the homepage.
 
